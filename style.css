@@ -1,0 +1,12 @@
+span {
+    display: inline-block;
+}
+body {
+    background-color: #ab3636;
+    text-align: center;
+}
+.agent-pics {
+    border: 2px solid white;
+    max-width: 300px;
+    max-height: 200px;
+}
